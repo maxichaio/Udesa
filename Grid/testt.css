@@ -1,0 +1,12 @@
+#fila-abajo{
+    display: grid;
+    gap: 20px;
+    grid-template-columns: 1fr 2fr;
+    background-color: crimson;
+}
+#parte-arriba {
+    gap: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: darkgreen;
+}

@@ -1,0 +1,32 @@
+body{
+    background-image: url(../Emilia/imagenes/emilia-home.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position: right;
+}
+ul{
+    list-style-type: none;
+    padding-left: 20px;
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+h1{
+    background-color: rgba(240 , 240, 239, 0.397)
+}
+p{
+    padding-left: 20px;
+}
+div{
+    padding: 30px;
+    width: 250px;
+    border: 1px dashed rgb(0, 0, 0);
+    border-radius: 20px;
+}
+li{
+    border: solid black;
+}

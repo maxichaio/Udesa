@@ -1,0 +1,21 @@
+body{
+    background-color: salmon;
+font-size: 40px;
+}
+h1{
+    color: red;
+}
+li{color: yellow;}
+
+#etiq {
+    color: orangered
+    
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+font-size: large;
+}
+.li-azules{
+    color: blue;
+    
+}
